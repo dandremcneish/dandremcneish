@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+D%27Andre+%F0%9F%91%8B;Data+%26+Analytics+Engineer;I+build+pipelines+that+don%27t+fall+over;ETL+by+day%2C+ELT+when+the+warehouse+can+take+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+D%27Andre;Data+%26+Analytics+Engineer;I+build+pipelines+that+don%27t+fall+over;ETL+by+day%2C+ELT+when+the+warehouse+can+take+it" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dandremcneish&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dandremcneish&color=58a6ff&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
 **Live, interactive portfolio (real charts, real data, click-through demos): [dandremcneish.github.io](https://dandremcneish.github.io)**
@@ -17,12 +17,23 @@
 I just graduated with a Master's in Data Analytics and Data Engineering from Western Governors University, on top of a Bachelor's in Data Analytics and Artificial Intelligence and an Associate's in Information Technology. I like building things that hold up past the first run: schemas that stay correct under real queries, pipelines with data-quality checks baked in rather than bolted on, and models that get validated before anyone trusts their output. My background's in technical support and IT operations, which is probably why I lean toward monitoring and reproducibility over getting something to work once and calling it done.
 
 <p align="center">
-  <code>Raw Data</code> ➜ 🧹 <code>Clean</code> ➜ 🔧 <code>Transform</code> ➜ 📦 <code>Load</code> ➜ ✅ <code>Validate</code> ➜ 📊 <code>Decide</code>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,gcp,aws,azure,docker,git,githubactions,bash" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <code>Raw Data</code> → <code>Clean</code> → <code>Transform</code> → <code>Load</code> → <code>Validate</code> → <code>Decide</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-10+-58A6FF?style=for-the-badge" alt="10+ projects" />
+  <img src="https://img.shields.io/badge/Certifications-5-58A6FF?style=for-the-badge" alt="5 certifications" />
+  <img src="https://img.shields.io/badge/Cloud%20Platforms-3-58A6FF?style=for-the-badge" alt="3 cloud platforms" />
+  <img src="https://img.shields.io/badge/Graduated-2026-58A6FF?style=for-the-badge" alt="Graduated 2026" />
 </p>
 
 <br>
 
-### 🛠️ What I work with
+### What I work with
 
 **Data Engineering:** Apache Airflow &middot; Python &middot; SQL &middot; ETL/ELT &middot; AWS Redshift &middot; AWS Glue &middot; DVC &middot; MLflow
 
@@ -32,17 +43,9 @@ I just graduated with a Master's in Data Analytics and Data Engineering from Wes
 
 <br>
 
-### 📊 GitHub stats
+### Contribution activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandremcneish&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<br>
-
-### 🐍 A snake, eating my own contribution graph
-
-Because a static profile is boring. This repo has a scheduled GitHub Action that regenerates it daily.
+Most of my day-to-day project work lives in private WGU environments and on [GitLab](https://gitlab.com/dmcnei29), so this graph is a partial picture rather than the full record — the portfolio link above has the complete build history with real screenshots and code.
 
 <p align="center">
   <picture>
@@ -54,10 +57,10 @@ Because a static profile is boring. This repo has a scheduled GitHub Action that
 
 <br>
 
-### 🎲 Quick data riddle
+### Quick SQL warm-up
 
 <details>
-<summary>Click to play: what does this query return?</summary>
+<summary>Click to expand: what does this query return?</summary>
 <br>
 
 ```sql
@@ -75,7 +78,7 @@ Every customer with more than one order, ranked by order count, trimmed down to 
 
 <br>
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | Description | Link |
 |---|---|---|
@@ -84,7 +87,7 @@ Every customer with more than one order, ranked by order count, trimmed down to 
 | ML Experiment Tracking Pipeline | Reproducible flight-delay prediction pipeline versioned with DVC, tracked with MLflow, deployed through GitLab CI/CD. | GitLab (hosted environment) |
 | Program Implementation Automation | Python program analyzing an organizational dataset to evaluate program effectiveness. | [GitLab](https://gitlab.com/dmcnei29/qkn1-task-2-program-implementation) |
 
-### ✅ Verified credentials
+### Verified credentials
 
 - WGU Data Analytics Professional Certificate
 - WGU Data Engineering Professional Specialization
@@ -92,6 +95,8 @@ Every customer with more than one order, ranked by order count, trimmed down to 
 - Udacity: Big Data Architecture at Scale (Nanodegree)
 - CompTIA Competency in AI Agent Essentials (Credential ID 6-3C6-DTEWP)
 
-### 📬 Get in touch
+### Get in touch
+
+Open to data engineering and data analytics roles.
 
 📧 dmcneish365@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/dandre-mcneish/) &nbsp;|&nbsp; 🌐 [Portfolio](https://dandremcneish.github.io)
