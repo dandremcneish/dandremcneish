@@ -10,6 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dandremcneish&color=58a6ff&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdandremcneish&label=Public%20Repos&query=%24.public_repos&color=58A6FF&style=flat-square" alt="Live public repo count" />
+  <img src="https://img.shields.io/github/followers/dandremcneish?style=flat-square&color=58A6FF&label=Followers" alt="Live follower count" />
 </p>
 
 **Live, interactive portfolio (real charts, real data, click-through demos): [dandremcneish.github.io](https://dandremcneish.github.io)**
@@ -55,26 +57,21 @@ Most of my day-to-day project work lives in private WGU environments and on [Git
   </picture>
 </p>
 
+The same contribution data, rendered as a 3D isometric skyline (regenerated daily by its own Action):
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dandremcneish/dandremcneish/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric render of my GitHub contribution calendar" width="90%" />
+</p>
+
 <br>
 
-### Quick SQL warm-up
+### Recent activity
 
-<details>
-<summary>Click to expand: what does this query return?</summary>
-<br>
+Pulled live from the GitHub public events API and refreshed automatically every 6 hours — no manual edits.
 
-```sql
-SELECT customer_id, COUNT(*) AS orders
-FROM orders
-GROUP BY customer_id
-HAVING COUNT(*) > 1
-ORDER BY orders DESC
-LIMIT 1;
-```
-
-Every customer with more than one order, ranked by order count, trimmed down to just the single busiest one. It's the classic "who's my most loyal customer" query, and it's usually the first thing I write against a new orders table before touching anything fancier.
-
-</details>
+<!--START_SECTION:activity-->
+- No public GitHub events in the last 90 days &mdash; recent build activity has been in private WGU environments and on [GitLab](https://gitlab.com/dmcnei29).
+<!--END_SECTION:activity-->
 
 <br>
 
