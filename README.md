@@ -35,16 +35,7 @@ I just graduated with a Master's in Data Analytics and Data Engineering from Wes
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dandremcneish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandremcneish&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandremcneish&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dandremcneish&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
 </p>
 
 <br>
@@ -60,6 +51,27 @@ Because a static profile is boring. This repo has a scheduled GitHub Action that
     <img alt="A snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/dandremcneish/dandremcneish/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<br>
+
+### 🎲 Quick data riddle
+
+<details>
+<summary>Click to play: what does this query return?</summary>
+<br>
+
+```sql
+SELECT customer_id, COUNT(*) AS orders
+FROM orders
+GROUP BY customer_id
+HAVING COUNT(*) > 1
+ORDER BY orders DESC
+LIMIT 1;
+```
+
+Every customer with more than one order, ranked by order count, trimmed down to just the single busiest one. It's the classic "who's my most loyal customer" query, and it's usually the first thing I write against a new orders table before touching anything fancier.
+
+</details>
 
 <br>
 
